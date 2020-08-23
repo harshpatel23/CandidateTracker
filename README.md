@@ -23,10 +23,10 @@
 * Statistics for custom duration.
 
 ## Screenshots
-<img src="./assets/dashboard.png" height=280px width=480px>&emsp;&emsp;&emsp;
-<img src="./assets/interview.png" height=280px width=480px><br><br>
-<img src="./assets/candidates.png" height=280px width=480px>&emsp;&emsp;&emsp;
-<img src="./assets/calendar.png" height=280px width=480px><br>
+<img src="./assets/dashboard.png" height=240px width=400px>&emsp;&emsp;&emsp;
+<img src="./assets/interview.png" height=240px width=400px><br><br>
+<img src="./assets/candidates.png" height=240px width=400px>&emsp;&emsp;&emsp;
+<img src="./assets/calendar.png" height=240px width=400px><br>
 
 ## Technology Stack
 * Java
