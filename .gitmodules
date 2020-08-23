@@ -1,0 +1,6 @@
+[submodule "Candidate-Tracker-Server"]
+	path = Candidate-Tracker-Server
+	url = https://github.com/harshpatel23/Candidate-Tracker-Server.git
+[submodule "Candidate-Tracker-App"]
+	path = Candidate-Tracker-App
+	url = https://github.com/shivaneej/Candidate-Tracker-App.git
