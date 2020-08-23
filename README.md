@@ -23,10 +23,15 @@
 * Statistics for custom duration.
 
 ## Screenshots
-<img src="./assets/dashboard.png" height=240px width=400px>&emsp;
-<img src="./assets/interview.png" height=240px width=400px><br><br>
-<img src="./assets/candidates.png" height=240px width=400px>&emsp;
-<img src="./assets/calendar.png" height=240px width=400px><br>
+#### Dashboard for different types of user
+<img src="./assets/dashboard.png" >&emsp;
+<img src="./assets/interview.png" ><br><br>
+
+### Search, sort and filter candidates
+<img src="./assets/candidates.png" >&emsp;
+
+### Calendar invitation for virtual interview
+<img src="./assets/calendar.png" ><br>
 
 ## Technology Stack
 * Java
