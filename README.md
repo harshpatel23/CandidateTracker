@@ -41,7 +41,7 @@
 
 ## How To Run
 1. Clone the repository with all the submodule<br>
-    `git clone --recurse-submodules <URL here>`
+    `git clone --recurse-submodules https://github.com/harshpatel23/CandidateTracker.git`
 2. Import `database/candidate_tracker_schema` in MySQL Workbench.    
 3. Start the Spring Server by running<br>
     `./Candidate-Tracker-Server/gradlew/bootRun`
